@@ -1,0 +1,16 @@
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\bin\Debug\net5.0\heist.exe
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\bin\Debug\net5.0\heist.deps.json
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\bin\Debug\net5.0\heist.runtimeconfig.json
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\bin\Debug\net5.0\heist.runtimeconfig.dev.json
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\bin\Debug\net5.0\heist.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\bin\Debug\net5.0\ref\heist.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\bin\Debug\net5.0\heist.pdb
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\obj\Debug\net5.0\heist.csproj.AssemblyReference.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\obj\Debug\net5.0\heist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\obj\Debug\net5.0\heist.AssemblyInfoInputs.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\obj\Debug\net5.0\heist.AssemblyInfo.cs
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\obj\Debug\net5.0\heist.csproj.CoreCompileInputs.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\obj\Debug\net5.0\heist.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\obj\Debug\net5.0\ref\heist.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\obj\Debug\net5.0\heist.pdb
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\heist\obj\Debug\net5.0\heist.genruntimeconfig.cache
